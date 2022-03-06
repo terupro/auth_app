@@ -1,6 +1,6 @@
 # auth_app
 
-A new Flutter project.
+FlutterFire UIの認証ページ
 
 ## Getting Started
 
